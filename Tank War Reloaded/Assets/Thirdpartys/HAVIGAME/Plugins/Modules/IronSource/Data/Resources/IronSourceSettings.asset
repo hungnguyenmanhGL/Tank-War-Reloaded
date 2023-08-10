@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631677200c6b5914cb05e236fd3df2e1, type: 3}
+  m_Name: IronSourceSettings
+  m_EditorClassIdentifier: 
+  appId:
+    android:
+      value:
+        rid: 2764580407154049043
+    iOS:
+      value:
+        rid: 2764580407154049044
+  pauseOnBackground: 0
+  manualLoadRewardedAd: 0
+  settingData: {fileID: 11400000, guid: cec9632bc14645c49bdbb58a2ed648e5, type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2764580407154049043
+      type: {class: DefaultStringValue, ns: HAVIGAME, asm: Assembly-CSharp}
+      data:
+        value: 
+    - rid: 2764580407154049044
+      type: {class: DefaultStringValue, ns: HAVIGAME, asm: Assembly-CSharp}
+      data:
+        value: 
